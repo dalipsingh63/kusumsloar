@@ -9,10 +9,10 @@ export const Footer = () => {
         {/* BRAND */}
         <div className="text-center mb-10">
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-extrabold">
-            𝓚𝓤𝓢𝓤𝓜 𝓢𝓞𝓛𝓐𝓡 𝓔ⓝ𝓔ⓝ𝓡𝓖𝓨
+            ᴋᴜꜱᴜᴍ ꜱᴏʟᴀʀ ᴇɴᴇɴʀɢʏ
           </h2>
           <p className="mt-2 text-gray-300 text-base md:text-lg">
-            𝓢𝓞𝓛𝓐𝓡 your way with trust & quality
+            ꜱᴏʟᴀʀ your way with trust & quality
           </p>
 
           <div className="flex justify-center flex-wrap gap-5 mt-4 text-gray-300">

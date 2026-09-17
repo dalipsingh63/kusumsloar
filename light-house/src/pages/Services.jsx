@@ -363,8 +363,8 @@ const owners = [
     name: "Akhilesh Singh",     
     role: "Owner",
     phone: "9785935437",
-    whatsapp: "9785935437",
-    img: "images/akhilesh solar.jpeg",
+    whatsapp: "9785935437", 
+    img: "images/akhilesh solar1.jpeg",
   },
 ];
 

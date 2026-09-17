@@ -104,11 +104,11 @@ const owners = [
     img: "/images/logo.png",
   },
   {
-    name: "Akhilesh Singh",
+    name: "Akhilesh Singh",  
     role: "Owner",
     phone: "9785935437",
     whatsapp: "9785935437",
-    img: "/images/logo.png",
+    img: "images/dalip singh.jpeg",
   },
 ];
 

@@ -101,7 +101,7 @@ const owners = [
     role: "Owner",
     phone: "7740972863",
     whatsapp: "7740972863",
-    img: "/images/logo.png",
+    img: "images/dalip singh.jpeg",
   },
   {
     name: "Akhilesh Singh",  

@@ -108,7 +108,7 @@ const owners = [
     role: "Owner",
     phone: "9785935437",
     whatsapp: "9785935437",
-    img: "images/dalip singh.jpeg",
+    img: "images/dal singh.jpeg",
   },
 ];
 

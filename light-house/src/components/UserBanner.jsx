@@ -28,7 +28,8 @@ const UserBanner = () => {
   return (
     // ✅ Zero gap under fixed navbar using negative margin
     // <div className="w-full -mt-16 md:-mt-20">
-    <div className="w-full -mt-16 md:-mt-20" style={{ marginTop: "4px" }}>
+    // <div className="w-full -mt-16 md:-mt-20" style={{ marginTop: "4px" }}>
+    <div className="w-full -mt-[11px] md:mt-1">
       <Banner images={images} />
     </div>
   );
